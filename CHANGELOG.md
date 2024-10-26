@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.4.0](https://github.com/officialpycasbin/django-orm-adapter/compare/v1.3.0...v1.4.0) (2024-10-26)
+
+
+### Features
+
+* update path ([51e5ccf](https://github.com/officialpycasbin/django-orm-adapter/commit/51e5ccf627522c8b2cb634c5912bc60f55f8a597))
+
 # [1.3.0](https://github.com/officialpycasbin/django-orm-adapter/compare/v1.2.0...v1.3.0) (2024-03-29)
 
 
