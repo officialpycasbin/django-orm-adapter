@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.5.0](https://github.com/officialpycasbin/django-orm-adapter/compare/v1.4.0...v1.5.0) (2025-08-15)
+
+
+### Features
+
+* switch from casbin to pycasbin ([59aac9b](https://github.com/officialpycasbin/django-orm-adapter/commit/59aac9bdb33f1efdb5e1e240d34abed3ab04cd49))
+
 # [1.4.0](https://github.com/officialpycasbin/django-orm-adapter/compare/v1.3.0...v1.4.0) (2024-10-26)
 
 
