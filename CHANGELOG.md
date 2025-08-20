@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.7.0](https://github.com/officialpycasbin/django-orm-adapter/compare/v1.6.0...v1.7.0) (2025-08-20)
+
+
+### Features
+
+* fix README badges ([#3](https://github.com/officialpycasbin/django-orm-adapter/issues/3)) ([e6e9934](https://github.com/officialpycasbin/django-orm-adapter/commit/e6e99348f5cb60d863b9c543d167deb765d6418c))
+
 # [1.6.0](https://github.com/officialpycasbin/django-orm-adapter/compare/v1.5.0...v1.6.0) (2025-08-16)
 
 
