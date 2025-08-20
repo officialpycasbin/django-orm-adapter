@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.6.0](https://github.com/officialpycasbin/django-orm-adapter/compare/v1.5.0...v1.6.0) (2025-08-16)
+
+
+### Features
+
+* upgrade semantic-release-pypi to fix the release error ([#2](https://github.com/officialpycasbin/django-orm-adapter/issues/2)) ([c034f56](https://github.com/officialpycasbin/django-orm-adapter/commit/c034f56eb2c311273afcbbb54eda491faaa2ac5c))
+
 # [1.5.0](https://github.com/officialpycasbin/django-orm-adapter/compare/v1.4.0...v1.5.0) (2025-08-15)
 
 
