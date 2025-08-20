@@ -1,11 +1,11 @@
 # Django ORM Adapter for PyCasbin
 
-[![GitHub Action](https://github.com/officialpycasbin/django-orm-adapter/workflows/build/badge.svg?branch=master)](https://github.com/officialpycasbin/django-orm-adapter/actions)
+[![build](https://github.com/officialpycasbin/django-orm-adapter/actions/workflows/build.yml/badge.svg)](https://github.com/officialpycasbin/django-orm-adapter/actions/workflows/build.yml)
 [![Coverage Status](https://coveralls.io/repos/github/officialpycasbin/django-orm-adapter/badge.svg)](https://coveralls.io/github/officialpycasbin/django-orm-adapter)
 [![Version](https://img.shields.io/pypi/v/casbin-django-orm-adapter.svg)](https://pypi.org/project/casbin-django-orm-adapter/)
 [![PyPI - Wheel](https://img.shields.io/pypi/wheel/casbin-django-orm-adapter.svg)](https://pypi.org/project/casbin-django-orm-adapter/)
 [![Pyversions](https://img.shields.io/pypi/pyversions/casbin-django-orm-adapter.svg)](https://pypi.org/project/casbin-django-orm-adapter/)
-[![Download](https://img.shields.io/pypi/dm/casbin-django-orm-adapter.svg)](https://pypi.org/project/casbin-django-orm-adapter/)
+[![Download](https://static.pepy.tech/badge/casbin-django-orm-adapter)](https://pypi.org/project/casbin-django-orm-adapter/)
 [![Discord](https://img.shields.io/discord/1022748306096537660?logo=discord&label=discord&color=5865F2)](https://discord.gg/S5UjpzGZjN)
 
 Django ORM Adapter is the [Django](https://www.djangoproject.com/)'s [ORM](https://docs.djangoproject.com/en/3.0/ref/databases/) adapter for [PyCasbin](https://github.com/casbin/pycasbin). With this library, Casbin can load policy from Django ORM supported database or save policy to it.
